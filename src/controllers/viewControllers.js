@@ -119,7 +119,11 @@ const pagesFn = (io) => {
       return { Error: "Algo salio mal con la consulta" };
     }
   };
+ 
+ 
   return { home, realTimeProducts, postRealTimeProducts }
+
+
 };
 
 module.exports = pagesFn

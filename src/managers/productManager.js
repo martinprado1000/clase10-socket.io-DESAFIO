@@ -96,8 +96,6 @@ const fs = require("fs");
           console.log("Campos incompletos");
           return {"status":400 , "respuesta": "Campos incompletos"}
         }
-        console.log(title)
-        console.log(description)
         const produ = await this.getProducts();
         const newProduct = {
           id: produ.length + 1,

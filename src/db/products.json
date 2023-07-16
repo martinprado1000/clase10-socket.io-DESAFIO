@@ -130,5 +130,35 @@
     "code": "g",
     "stock": "g",
     "category": "g"
+  },
+  {
+    "id": 14,
+    "title": "Producto 1022222222222222",
+    "description": "Desc prod10",
+    "price": 10101010101,
+    "thumbnail": [],
+    "code": "abc101010",
+    "stock": 10101010,
+    "category": "celular"
+  },
+  {
+    "id": 15,
+    "title": "Producto 1888",
+    "description": "Desc prod10",
+    "price": 10101010101,
+    "thumbnail": [],
+    "code": "abc101010",
+    "stock": 10101010,
+    "category": "celular"
+  },
+  {
+    "id": 16,
+    "title": "f",
+    "description": "f",
+    "price": "f",
+    "thumbnail": "f",
+    "code": "f",
+    "stock": "f",
+    "category": "f"
   }
 ]
